@@ -16,4 +16,5 @@ This repository is organized by units, which each have their own folder:
 Inside of each unit folder are 2 subfolders:
 
 `examples` - contains example code for teachers to demonstrate concepts
+
 `practice` - contains practice exercise solutions and instructions
