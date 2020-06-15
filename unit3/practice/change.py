@@ -32,9 +32,9 @@ remaining_amount %= CENTS_PER_NICKEL
 pennies = remaining_amount  
 
 # step 3: print the results
-print("Your amount $" + str(money) + " consists of")  
-print("\t" + str(dollars) + " dollars")   # tab character \t, newline character \n
-print("\t" + str(quarters) + " quarters")  
-print("\t" + str(dimes) + " dimes") 
-print("\t" + str(nickels) + " nickels")  
-print("\t" + str(pennies) + " pennies")  
+print("Your amount $", money, "consists of")  
+print("\t", dollars, "dollars")   # tab character \t, newline character \n
+print("\t", quarters, "quarters")  
+print("\t", dimes, "dimes") 
+print("\t", nickels, "nickels")  
+print("\t", pennies, "pennies")  

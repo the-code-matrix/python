@@ -25,3 +25,6 @@ print(score)
 
 score %= 4
 print(score)
+
+score **= 2
+print(score)

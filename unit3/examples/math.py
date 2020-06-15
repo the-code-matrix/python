@@ -9,3 +9,6 @@ print(25 // 3) # integer division
 
 # modulus/remainder operator
 print(10 % 3) # 1
+
+# exponent
+print(5 ** 3) # 125
